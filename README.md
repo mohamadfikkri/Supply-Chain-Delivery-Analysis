@@ -46,7 +46,7 @@ I then used **Power BI** to calculate and visualise delivery KPIs, compare group
 
 The dashboard includes KPI cards for total orders, late orders, late-delivery rate and average schedule variance; comparisons by shipping mode and market; days-delayed analysis; overall delivery status; and filters for market, shipping mode and order date.
 
-**[Open the Power BI project file](Dashboard/DataCoSupplyChain_DeliveryKPI_dahsboard.pbix)** (requires Power BI Desktop)
+**[Open the Power BI project file](Dashboard/DataCoSupplyChain_DeliveryKPI_dashboard.pbix)** (requires Power BI Desktop)
 
 ## Key Findings
 
@@ -69,7 +69,7 @@ The dashboard includes KPI cards for total orders, late orders, late-delivery ra
 ## Repository Files
 
 - [Dashboard screenshot](Dashboard/DataCoSupplyChain_DeliveryKPI_dashboard.png)
-- [Power BI dashboard file](Dashboard/DataCoSupplyChain_DeliveryKPI_dahsboard.pbix)
+- [Power BI dashboard file](Dashboard/DataCoSupplyChain_DeliveryKPI_dashboard.pbix)
 - [Cleaned Excel dataset](Data/Clean_DataCoSupplyChainDataset.xlsx)
 - [Dataset field descriptions](Data/DescriptionDataCoSupplyChain.csv)
 - [Full portfolio case study (PDF)](Documentation/Supply_Chain_Delivery_Performance_Portfolio_Revised.pdf)
